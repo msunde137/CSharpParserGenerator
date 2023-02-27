@@ -1,8 +1,6 @@
 using System;
 using System.Collections.Generic;
-using System.Text.Json.Serialization;
 using System.Text.RegularExpressions;
-using Utils.Serialization;
 
 
 using System.Linq;
@@ -13,7 +11,6 @@ namespace CSharpParserGenerator
     {
         public Token<ELang> Token { get; }
 
-        [JsonConverter(typeof(RegexJsonSerializer))]
         public Regex Pattern { get; }
 
         public LexerToken(Token<ELang> token, TokenRegex pattern)
