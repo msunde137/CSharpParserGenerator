@@ -1,4 +1,6 @@
-This repository is adapted from [rolando95/CSharpParserGenerator](https://github.com/rolando95/CSharpParserGenerator) to work as a unity pluggin. Add this package to unity by opening the package manager, selecting the '+' dropdown menu, and pasting the repository link '''git@github.com:msunde137/CSharpParserGenerator.git'''.
+This repository is adapted from [rolando95/CSharpParserGenerator](https://github.com/rolando95/CSharpParserGenerator) to work as a unity pluggin. Add this package to unity by opening the package manager, selecting the '+' dropdown menu, and pasting the repository link 
+
+'''git@github.com:msunde137/CSharpParserGenerator.git'''.
 
 # **C# LALR Parser Generator**
 
