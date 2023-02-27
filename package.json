@@ -1,0 +1,26 @@
+{
+    "name": "com.cosmicpotato.csharpparsergenerator",
+    "version": "1.0.0",
+    "displayName": "CSharpParserGenerator",
+    "description": "A .NET package for generating parsers adapted to a unity package.",
+    "unity": "2021.3",
+    "documentationUrl": "https://github.com/msunde137/CSharpParserGenerator/blob/develop/README.md",
+    "licensesUrl": "https://github.com/msunde137/CSharpParserGenerator/blob/develop/LISCENSE",
+    "author": {
+        "name": "Mac Sunde",
+        "email": "",
+        "url": "https://github.com/msunde137/CSharpParserGenerator"
+    },
+    "samples": [
+        {
+            "displayName": "Dynamic Query",
+            "description": "This sample seeks to create your own query language to get a list of results by using linq",
+            "path": "Samples~/DynamicQuery"
+        },
+        {
+            "displayName": "Math Expression",
+            "description": "Matches an arithmetic expression",
+            "path": "Samples~/MathExpression"
+        }
+    ]
+}
