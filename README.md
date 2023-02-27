@@ -1,4 +1,4 @@
-This repository is adapted from ![rolando95/CSharpParserGenerator](https://github.com/rolando95/CSharpParserGenerator) to work as a unity pluggin.
+This repository is adapted from [rolando95/CSharpParserGenerator](https://github.com/rolando95/CSharpParserGenerator) to work as a unity pluggin.
 
 # **C# LALR Parser Generator**
 
