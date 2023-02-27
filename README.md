@@ -1,3 +1,5 @@
+This repository is adapted from ![rolando95/CSharpParserGenerator](https://github.com/rolando95/CSharpParserGenerator) to work as a unity pluggin.
+
 # **C# LALR Parser Generator**
 
 CSharpParserGenerator is a tool that allows you to create LALR grammars. It includes a **lexical**, **syntactic** and **semantic** parser that can work at run time with native C# code.
