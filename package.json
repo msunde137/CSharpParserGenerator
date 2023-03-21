@@ -2,14 +2,14 @@
     "name": "com.cosmicpotato.parsergenerator",
     "version": "1.0.0",
     "displayName": "Parser Generator",
-    "description": "A package for generating parsers adapted to a unity package.",
+    "description": "A LALR parser generator for unity.",
     "unity": "2021.3",
-    "documentationUrl": "https://github.com/msunde137/ParserGenerator/blob/develop/README.md",
-    "licensesUrl": "https://github.com/msunde137/ParserGenerator/blob/develop/LISCENSE",
+    "documentationUrl": "https://github.com/msunde137/UnityParserGenerator/blob/develop/README.md",
+    "licensesUrl": "https://github.com/msunde137/UnityParserGenerator/blob/develop/LISCENSE",
     "author": {
         "name": "Mac Sunde",
         "email": "imacsunde@gmail.com",
-        "url": "https://github.com/msunde137/ParserGenerator"
+        "url": "https://github.com/msunde137/UnityParserGenerator"
     },
     "samples": [
         {
