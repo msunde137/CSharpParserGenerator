@@ -4,7 +4,7 @@ using System.Diagnostics.CodeAnalysis;
 using System.Text.RegularExpressions;
 
 
-namespace CSharpParserGenerator
+namespace cosmicpotato.parsergenerator
 {
     public class LexerNode<ELang> : LexerToken<ELang> where ELang : Enum
     {
