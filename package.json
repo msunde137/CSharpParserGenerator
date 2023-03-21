@@ -1,15 +1,15 @@
 {
-    "name": "com.cosmicpotato.csharpparsergenerator",
+    "name": "com.cosmicpotato.parsergenerator",
     "version": "1.0.0",
-    "displayName": "CSharpParserGenerator",
-    "description": "A .NET package for generating parsers adapted to a unity package.",
+    "displayName": "Parser Generator",
+    "description": "A package for generating parsers adapted to a unity package.",
     "unity": "2021.3",
-    "documentationUrl": "https://github.com/msunde137/CSharpParserGenerator/blob/develop/README.md",
-    "licensesUrl": "https://github.com/msunde137/CSharpParserGenerator/blob/develop/LISCENSE",
+    "documentationUrl": "https://github.com/msunde137/ParserGenerator/blob/develop/README.md",
+    "licensesUrl": "https://github.com/msunde137/ParserGenerator/blob/develop/LISCENSE",
     "author": {
         "name": "Mac Sunde",
         "email": "imacsunde@gmail.com",
-        "url": "https://github.com/msunde137/CSharpParserGenerator"
+        "url": "https://github.com/msunde137/ParserGenerator"
     },
     "samples": [
         {
