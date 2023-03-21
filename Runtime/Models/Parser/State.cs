@@ -2,10 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
-using Utils.Sequence;
 using Id = System.Int64;
-namespace CSharpParserGenerator
+
+namespace cosmicpotato.parsergenerator
 {
+    using Utils.Sequence;
     [DebuggerDisplay("State {Alias}")]
     public class State<ELang> : IEquatable<State<ELang>> where ELang : Enum
     {

@@ -1,26 +1,26 @@
 {
-    "name": "com.cosmicpotato.parsergenerator",
-    "version": "1.0.0",
-    "displayName": "Parser Generator",
-    "description": "A LALR parser generator for unity.",
-    "unity": "2021.3",
-    "documentationUrl": "https://github.com/msunde137/UnityParserGenerator/blob/develop/README.md",
-    "licensesUrl": "https://github.com/msunde137/UnityParserGenerator/blob/develop/LISCENSE",
-    "author": {
-        "name": "Mac Sunde",
-        "email": "imacsunde@gmail.com",
-        "url": "https://github.com/msunde137/UnityParserGenerator"
+  "name": "com.cosmicpotato.parsergenerator",
+  "version": "1.1.0",
+  "displayName": "Parser Generator",
+  "description": "A LALR parser generator written by rolando95 (https://github.com/rolando95) and adapted for unity by cosmicpotato (https://github.com/msunde137) for unity.",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/msunde137/UnityParserGenerator/blob/develop/README.md",
+  "licensesUrl": "https://github.com/msunde137/UnityParserGenerator/blob/develop/LISCENSE",
+  "author": {
+    "name": "Mac Sunde",
+    "email": "imacsunde@gmail.com",
+    "url": "https://github.com/msunde137/UnityParserGenerator"
+  },
+  "samples": [
+    {
+      "displayName": "Dynamic Query",
+      "description": "This sample seeks to create your own query language to get a list of results by using linq",
+      "path": "Samples~/DynamicQuery"
     },
-    "samples": [
-        {
-            "displayName": "Dynamic Query",
-            "description": "This sample seeks to create your own query language to get a list of results by using linq",
-            "path": "Samples~/DynamicQuery"
-        },
-        {
-            "displayName": "Math Expression",
-            "description": "Matches an arithmetic expression",
-            "path": "Samples~/MathExpression"
-        }
-    ]
+    {
+      "displayName": "Math Expression",
+      "description": "Matches an arithmetic expression",
+      "path": "Samples~/MathExpression"
+    }
+  ]
 }

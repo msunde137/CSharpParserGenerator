@@ -1,4 +1,4 @@
-﻿namespace cosmicpotato.parsergenerator
+﻿namespace cosmicpotato.parsergenerator.Utils
 {
     public static class Utils
     {

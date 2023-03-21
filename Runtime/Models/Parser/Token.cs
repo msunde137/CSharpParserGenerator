@@ -1,7 +1,7 @@
 using System;
 using System.Diagnostics.CodeAnalysis;
 
-namespace CSharpParserGenerator
+namespace cosmicpotato.parsergenerator
 {
     public enum ETokenTypes
     {

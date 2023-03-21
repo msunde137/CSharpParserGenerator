@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CSharpParserGenerator
+namespace cosmicpotato.parsergenerator
 {
     public class Lexer<ELang> where ELang : Enum
     {

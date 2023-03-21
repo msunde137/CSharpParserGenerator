@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 
-namespace CSharpParserGenerator
+namespace cosmicpotato.parsergenerator
 {
     public class ParserGenerator<ELang>
         where ELang : Enum

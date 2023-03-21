@@ -1,4 +1,4 @@
-namespace Utils.Sequence
+namespace cosmicpotato.parsergenerator.Utils.Sequence
 {
     using Id = System.Int64;
 

@@ -1,11 +1,11 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Utils.Sequence;
 using Id = System.Int64;
 
-namespace CSharpParserGenerator
+namespace cosmicpotato.parsergenerator
 {
+    using Utils.Sequence;
     public class ProductionRule<ELang> : IEquatable<ProductionRule<ELang>> where ELang : Enum
     {
         private static Sequence Ids { get; } = new Sequence();

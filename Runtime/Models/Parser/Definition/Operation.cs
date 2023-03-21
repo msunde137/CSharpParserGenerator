@@ -1,5 +1,5 @@
 using System;
-namespace CSharpParserGenerator
+namespace cosmicpotato.parsergenerator
 {
     public class Op
     {

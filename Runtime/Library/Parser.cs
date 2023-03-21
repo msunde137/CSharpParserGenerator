@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 
-namespace CSharpParserGenerator
+namespace cosmicpotato.parsergenerator
 {
     public class Parser<ELang> where ELang : Enum
     {
@@ -74,7 +74,7 @@ namespace CSharpParserGenerator
                         throw new InvalidOperationException($"Syntax error: invalid EOF. Any of these tokens were expected: {string.Join(", ", availableTokens)}");
                     }
 
-                    var errorTextFragment = Utils.GetErrorTextFragment(text, currentNode.Position, currentNode.Substring.Length);
+                    var errorTextFragment = Utils.Utils.GetErrorTextFragment(text, currentNode.Position, currentNode.Substring.Length);
                     throw new InvalidOperationException(message: $"Syntax error: Invalid token {currentNode.Token} ({currentNode.Substring}) at \"{errorTextFragment}\" (position {currentNode.Position}). Any of these tokens were expected: {string.Join(", ", availableTokens)}");
                 }
 

@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Utils.Sequence;
 
-namespace CSharpParserGenerator
+namespace cosmicpotato.parsergenerator
 {
+    using Utils.Sequence;
     public class GrammarRules<ELang> where ELang : Enum
     {
         public List<ProductionRule<ELang>> ProductionRules { get; }

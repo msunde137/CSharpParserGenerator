@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Id = System.Int64;
 
-namespace CSharpParserGenerator
+namespace cosmicpotato.parsergenerator
 {
     public class ParserTable<ELang> where ELang : Enum
     {

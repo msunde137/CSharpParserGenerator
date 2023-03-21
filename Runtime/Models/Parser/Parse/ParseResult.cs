@@ -3,7 +3,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace CSharpParserGenerator
+namespace cosmicpotato.parsergenerator
 {
     public class ParseResult<T>
     {

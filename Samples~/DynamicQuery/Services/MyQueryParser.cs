@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-using CSharpParserGenerator;
+using cosmicpotato.parsergenerator;
 using DynamicQuery.Models;
 
 namespace DynamicQuery.Services

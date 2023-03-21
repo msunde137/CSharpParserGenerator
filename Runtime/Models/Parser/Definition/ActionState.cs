@@ -2,7 +2,7 @@ using System;
 using System.Diagnostics;
 using Id = System.Int64;
 
-namespace CSharpParserGenerator
+namespace cosmicpotato.parsergenerator
 {
     public enum ActionType { Shift, Reduce, Goto, Accept, ExecuteOp }
 

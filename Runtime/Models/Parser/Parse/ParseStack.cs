@@ -5,7 +5,7 @@ using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using Id = System.Int64;
 
-namespace CSharpParserGenerator
+namespace cosmicpotato.parsergenerator
 {
 
     [DebuggerDisplay("Count = {Values?.Count}")]
