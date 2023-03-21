@@ -1,5 +1,5 @@
 {
-    "name": "cosmicpotato.csharpparsergenerator.Runtime",
+    "name": "cosmicpotato.parsergenerator.Runtime",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [
