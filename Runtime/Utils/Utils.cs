@@ -1,4 +1,4 @@
-﻿namespace CSharpParserGenerator
+﻿namespace cosmicpotato.parsergenerator
 {
     public static class Utils
     {
