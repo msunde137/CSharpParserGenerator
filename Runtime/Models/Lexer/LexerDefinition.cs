@@ -5,7 +5,7 @@ using System.Text.RegularExpressions;
 
 using System.Linq;
 
-namespace CSharpParserGenerator
+namespace cosmicpotato.parsergenerator
 {
     public class LexerToken<ELang> : IEquatable<LexerToken<ELang>> where ELang : Enum
     {
